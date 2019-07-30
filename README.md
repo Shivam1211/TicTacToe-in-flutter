@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe 
 
 Classic TicTacToe game built in flutter.
 
